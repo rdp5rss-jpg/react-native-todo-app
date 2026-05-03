@@ -1,4 +1,10 @@
 {
-  "name": "SampleTodo",
-  "displayName": "SampleTodo"
+  "expo": {
+    "name": "SampleTodo",
+    "slug": "sampletodo",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.mahi.sampletdnenneodo"
+    }
+  }
 }
